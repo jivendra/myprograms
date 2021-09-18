@@ -1,5 +1,4 @@
 //Problem link - https://www.hackerrank.com/challenges/java-loops/problem
-import java.io.*;
 import java.util.*;
 public class Java_loops_2{
     public static void main(String[] args) {
