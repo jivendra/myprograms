@@ -68,7 +68,7 @@ print(count)
 import os
 file = open('file.txt','r')
 try:
-    bool(os.rename('file.txt','file.txt'))
+    os.rename('file.txt','file.txt')
     print('Closed')
 except:
     print('Open')
