@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    cout<<"Test";
+    int x;
+    cout<<&x;
     cout<<endl;
 }
