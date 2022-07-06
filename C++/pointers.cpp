@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cstdlib>
 using namespace std;
 
 int main() {
@@ -16,6 +17,8 @@ int main() {
     char *q;
     q = (char*)p; //pointer tyecasting, now q will store the value of p, which is address of a
     cout << *q << endl;
+
+    int *n = NULL; //This is NULL pointer which points to nothing
     cout << endl;
     return 0;
 }
