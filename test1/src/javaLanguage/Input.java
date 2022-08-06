@@ -10,5 +10,6 @@ public class Input {
         System.out.print("Enter a line : ");
         String line = input.nextLine();
         System.out.println(line);
+        System.out.println(Math.max(5,7));
     }
 }
