@@ -1,5 +1,3 @@
-package DSA;
-
 public class Primitive {
     public static void main(String[] args) {
         int roll_no = 10;
