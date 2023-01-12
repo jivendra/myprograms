@@ -1,6 +1,6 @@
 //Problem link - https://www.hackerrank.com/challenges/java-loops/problem
 import java.util.*;
-public class Java_loops_2{
+public class JavaLoopsPractice{
     public static void main(String[] args) {
         Scanner obj = new Scanner(System.in);
         int q,a,b,n;

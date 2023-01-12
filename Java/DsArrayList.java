@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
-public class ds_ArrayList {
+public class DsArrayList {
     public static void main(String[] args) {
 
         //creation
