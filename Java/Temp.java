@@ -31,7 +31,6 @@ public class Temp {
         System.out.println(Arrays.toString(name.toLowerCase().toCharArray()));
         String name2 = "Jivendra";
         System.out.println(name == (name2));
-\
         in.close();
     }
 }
